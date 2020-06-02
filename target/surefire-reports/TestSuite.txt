@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 34.067 s <<< FAILURE! - in TestSuite
+testYahoo(ER.ER.EReport3)  Time elapsed: 20.384 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at ER.ER.EReport3.testYahoo(EReport3.java:19)
+
